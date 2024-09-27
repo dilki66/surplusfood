@@ -1,0 +1,15 @@
+.loginBackground {
+    background-image: url('../../../public/images/authBack.png');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+  }
+
+  .card{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    min-height: 40vh;
+}

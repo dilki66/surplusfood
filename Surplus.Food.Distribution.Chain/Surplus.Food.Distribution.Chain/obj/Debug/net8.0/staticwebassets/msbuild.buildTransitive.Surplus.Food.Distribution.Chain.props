@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Surplus.Food.Distribution.Chain.props" />
+</Project>

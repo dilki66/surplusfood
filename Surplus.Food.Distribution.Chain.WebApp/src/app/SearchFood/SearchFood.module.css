@@ -1,0 +1,8 @@
+.foodImage {
+    background-image: url('../../../public/images/food.png');
+width: 400px;
+height: 400px;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}

@@ -1,0 +1,7 @@
+.cardImage{
+    width: 200px;
+    height: 205px;
+    background-size: cover;
+    background-image: url('../../../../public/images/kottu-02.jpg');
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,21 @@
+.sidebarBlock {
+    background-color: wheat !important;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logoImage {
+    background-image: url('../../../../public/images/logo.png');
+    width: 130px;
+    height: 130px;
+    background-size: cover;
+
+    padding: 50px;
+
+}
