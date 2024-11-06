@@ -34,7 +34,7 @@ export default function Cart() {
 
     const [paymentMeth, setPaymentMeth] = useState("N/A");
 
-    const [suppName, setSuppName] = useState("N/A");
+    const [suppName, setSuppName] = useState("Not Available");
 
 
     const [editableLocation, setEditableLocation] = useState(cusAddress);
